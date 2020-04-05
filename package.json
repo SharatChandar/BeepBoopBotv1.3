@@ -1,5 +1,5 @@
 {
-  "name": "yes-bot",
+  "name": "beep-boop-bot",
   "version": "1.0.0",
   "description": "Quiz bot",
   "main": "index.js",
@@ -12,5 +12,4 @@
   "dependencies": {
     "discord.js": "^12.1.1"
   }
-  
 }
