@@ -1,6 +1,6 @@
 {
   "name": "beep-boop-bot",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "description": "Quiz bot",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "author": "sharat chandar",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.1.1"
+    "discord.js": "^12.1.1",
+    "redux-devtools-extension": "^2.13.8"
   }
 }
