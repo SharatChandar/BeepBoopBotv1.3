@@ -1,18 +1,18 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const token ='Njk2MzE0ODg1Njk2NTIwMTkz.Xom-5w.ShF928AEbDTsaLMNMcGQO5y7S9I';
+const token ='#BotToken';
 const PREFIX=   '!';
 bot.on('ready', ()=>{
     console.log("Bot is running");
 })
-const proctor = '702863347934298163';
-const team1= '702861332046676068';
-const team2= '702861416465694822';
-const team3= '702861429794930688';
-const team4= '702861445112660040'
-const team5= '702861459427950623'
-const archives= '696316299004870657'
-const scores= '696314429649846272';
+const proctor = 'Channel_id';
+const team1= 'Channel_id';
+const team2= 'Channel_id';
+const team3= 'Channel_id';
+const team4= 'Channel_id'
+const team5= 'Channel_id'
+const archives= 'Channel_id'
+const scores= 'Channel_id';
 
 
 bot.on('message',message=>{
