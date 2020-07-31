@@ -39,11 +39,11 @@ bot.on('message',message=>{
     // switch(args[0]){
     // // case 'bounce':
     // //     if (!args[1]) return message.reply("Error!!! Specify the Answer")
-    // //     bot.channels.cache.get("696038235339751464").send(`Bounce from ${message.channel}: ${args[1]}`);
+    // //     bot.channels.cache.get("Channel_id").send(`Bounce from ${message.channel}: ${args[1]}`);
     // //     break;
     // // case 'pounce':
     // //     if (!args[1]) return message.reply("Error!!! Specify the Answer")
-    // //     bot.channels.cache.get("695986147465232434").send(`Pounce from ${message.channel}: ${args[1]}`);
+    // //     bot.channels.cache.get("Channel_id").send(`Pounce from ${message.channel}: ${args[1]}`);
     // //     break;
     // case 'help':
     //     message.channel.send('Proctor:\nFor Normal question use the cmd \"!question_<qn_no>_<question>\"\nFor Image/media questions use the cmd \"!questionmedia_<qn_no>\"\nFor Normal answer use the cmd \"!answer_<ans_no>_<answer>\"\nFor Image/media answer use the cmd \"!answermedia_<ans_no>\"\n\nPeeps:\nUse your team chat only\nBounce on Voice Chat General \nPounce on your team chat and inform the proctor \n');
